@@ -92,3 +92,10 @@ font-family: Arial, Helvetica, sans-serif;
 .adresse{
 margin-right: 40px;
 }
+.mail{
+    text-decoration: none;
+    color: black;
+}
+.footersame{
+    font-size: 15px;
+}
