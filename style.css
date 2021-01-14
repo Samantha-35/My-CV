@@ -46,7 +46,6 @@ align-items: center;
 width: 800px;
 margin: 10px;
 height: 50em;
-border: solid 1px black;
 }
 
 .titlecv{
@@ -86,4 +85,9 @@ font-family: Arial, Helvetica, sans-serif;
 }
 .footer{
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.adresse{
+margin-right: 40px;
 }
